@@ -1,0 +1,9 @@
+E:\Work\SimpleTest\SimpleTest\bin\Release\SimpleTest.exe.config
+E:\Work\SimpleTest\SimpleTest\bin\Release\SimpleTest.exe
+E:\Work\SimpleTest\SimpleTest\bin\Release\SimpleTest.pdb
+E:\Work\SimpleTest\SimpleTest\bin\Release\CsvHelper.dll
+E:\Work\SimpleTest\SimpleTest\bin\Release\CsvHelper.pdb
+E:\Work\SimpleTest\SimpleTest\bin\Release\CsvHelper.xml
+E:\Work\SimpleTest\SimpleTest\obj\Release\SimpleTest.exe
+E:\Work\SimpleTest\SimpleTest\obj\Release\SimpleTest.pdb
+E:\Work\SimpleTest\SimpleTest\obj\Release\SimpleTest.csprojResolveAssemblyReference.cache
